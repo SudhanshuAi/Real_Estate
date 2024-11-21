@@ -9,6 +9,9 @@ This project is a **MERN Stack Application** that includes an API, a client-side
 - **Real-time Communication**: Socket server for real-time updates.
 - **Database**: **MongoDB** for efficient data management.
 
+Screenshot :
+![Screenshot (161)](https://github.com/user-attachments/assets/b3a0d0f7-b68c-403d-b5e2-81b0656c791d)
+
 ## Running the Application
 
 
@@ -25,7 +28,4 @@ npm run dev
 ### Start the Socket
 cd socket
 nodemon app.js
-
-Screenshot :
-![Screenshot (161)](https://github.com/user-attachments/assets/b3a0d0f7-b68c-403d-b5e2-81b0656c791d)
 
