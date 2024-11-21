@@ -11,8 +11,7 @@ This project is a **MERN Stack Application** that includes an API, a client-side
 
 ## Running the Application
 
-### Start the API Server
-To run the backend server, execute the following commands:
+
 ```bash
 cd api
 nodemon app.js
