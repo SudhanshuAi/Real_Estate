@@ -1,4 +1,4 @@
-# MERN Stack Application
+# Real Estate - MERN Stack Application
 
 ## Overview
 This project is a **MERN Stack Application** that includes an API, a client-side frontend, and a real-time socket server for seamless communication. The application is designed to be scalable and user-friendly, leveraging the power of **MongoDB**, **Express.js**, **React.js**, and **Node.js**.
