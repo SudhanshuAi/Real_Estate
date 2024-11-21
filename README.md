@@ -1,30 +1,28 @@
-Overview
-This project is a MERN Stack Application that includes an API, a client-side frontend, and a real-time socket server for seamless communication. The application is designed to be scalable and user-friendly, leveraging the power of MongoDB, Express.js, React.js, and Node.js.
+# MERN Stack Application
 
-Features
-Backend: RESTful APIs built with Express.js.
-Frontend: Interactive and dynamic UI built with React.js.
-Real-time Communication: Socket server for real-time updates.
-Database: MongoDB for efficient data management.
+## Overview
+This project is a **MERN Stack Application** that includes an API, a client-side frontend, and a real-time socket server for seamless communication. The application is designed to be scalable and user-friendly, leveraging the power of **MongoDB**, **Express.js**, **React.js**, and **Node.js**.
 
-Running the Application
+## Features
+- **Backend**: RESTful APIs built with **Express.js**.
+- **Frontend**: Interactive and dynamic UI built with **React.js**.
+- **Real-time Communication**: Socket server for real-time updates.
+- **Database**: **MongoDB** for efficient data management.
 
-Start the API Server
+## Running the Application
+
+### Start the API Server
+To run the backend server, execute the following commands:
+```bash
 cd api
 nodemon app.js
 
-Start the Client
+### Start the Client
+To run the frontend:
+```bash
 cd client
 npm run dev
 
-Start the Socket Server
+### Start the Socket
 cd socket
 nodemon app.js
-
-Project Screenshots
-Here are some visual previews of the application:
-
-
-
-Working Video :-
-https://drive.google.com/file/d/1mDbSHy78uIcPUEVam3Vl63MEKqzD_SXB/view?usp=drive_link
